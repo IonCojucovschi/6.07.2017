@@ -1,0 +1,9 @@
+C:\Users\Ion C#\Desktop\Ajutor pu problema 2.3\Ajutor pu problema 2.3\bin\Debug\Ajutor pu problema 2.3.exe.config
+C:\Users\Ion C#\Desktop\Ajutor pu problema 2.3\Ajutor pu problema 2.3\bin\Debug\Ajutor pu problema 2.3.exe
+C:\Users\Ion C#\Desktop\Ajutor pu problema 2.3\Ajutor pu problema 2.3\bin\Debug\Ajutor pu problema 2.3.pdb
+C:\Users\Ion C#\Desktop\Ajutor pu problema 2.3\Ajutor pu problema 2.3\obj\Debug\Ajutor pu problema 2.3.csprojResolveAssemblyReference.cache
+C:\Users\Ion C#\Desktop\Ajutor pu problema 2.3\Ajutor pu problema 2.3\obj\Debug\Ajutor pu problema 2.3.exe
+C:\Users\Ion C#\Desktop\Ajutor pu problema 2.3\Ajutor pu problema 2.3\obj\Debug\Ajutor pu problema 2.3.pdb
+C:\Users\Ion C#\Desktop\DAscks 76 pr\Ajutor pu problema 2.3\Ajutor pu problema 2.3\bin\Debug\Ajutor pu problema 2.3.exe.config
+C:\Users\Ion C#\Desktop\DAscks 76 pr\Ajutor pu problema 2.3\Ajutor pu problema 2.3\obj\Debug\Ajutor pu problema 2.3.exe
+C:\Users\Ion C#\Desktop\DAscks 76 pr\Ajutor pu problema 2.3\Ajutor pu problema 2.3\obj\Debug\Ajutor pu problema 2.3.pdb

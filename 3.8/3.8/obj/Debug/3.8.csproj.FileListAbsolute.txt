@@ -1,0 +1,6 @@
+C:\Users\Ion C#\Desktop\DAscks 76 pr\3.8\3.8\bin\Debug\3.8.exe.config
+C:\Users\Ion C#\Desktop\DAscks 76 pr\3.8\3.8\obj\Debug\3.8.csprojResolveAssemblyReference.cache
+C:\Users\Ion C#\Desktop\DAscks 76 pr\3.8\3.8\bin\Debug\3.8.exe
+C:\Users\Ion C#\Desktop\DAscks 76 pr\3.8\3.8\bin\Debug\3.8.pdb
+C:\Users\Ion C#\Desktop\DAscks 76 pr\3.8\3.8\obj\Debug\3.8.exe
+C:\Users\Ion C#\Desktop\DAscks 76 pr\3.8\3.8\obj\Debug\3.8.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ion C#\Desktop\DAscks 76 pr\3.7 tot\3.7 tot\bin\Debug\3.7 tot.exe.config
+C:\Users\Ion C#\Desktop\DAscks 76 pr\3.7 tot\3.7 tot\bin\Debug\3.7 tot.exe
+C:\Users\Ion C#\Desktop\DAscks 76 pr\3.7 tot\3.7 tot\bin\Debug\3.7 tot.pdb
+C:\Users\Ion C#\Desktop\DAscks 76 pr\3.7 tot\3.7 tot\obj\Debug\3.7 tot.csprojResolveAssemblyReference.cache
+C:\Users\Ion C#\Desktop\DAscks 76 pr\3.7 tot\3.7 tot\obj\Debug\3.7 tot.exe
+C:\Users\Ion C#\Desktop\DAscks 76 pr\3.7 tot\3.7 tot\obj\Debug\3.7 tot.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ion C#\Desktop\DAscks 76 pr\2.4 partial\2.4 partial\bin\Debug\2.4 partial.exe.config
+C:\Users\Ion C#\Desktop\DAscks 76 pr\2.4 partial\2.4 partial\bin\Debug\2.4 partial.exe
+C:\Users\Ion C#\Desktop\DAscks 76 pr\2.4 partial\2.4 partial\bin\Debug\2.4 partial.pdb
+C:\Users\Ion C#\Desktop\DAscks 76 pr\2.4 partial\2.4 partial\obj\Debug\2.4 partial.csprojResolveAssemblyReference.cache
+C:\Users\Ion C#\Desktop\DAscks 76 pr\2.4 partial\2.4 partial\obj\Debug\2.4 partial.exe
+C:\Users\Ion C#\Desktop\DAscks 76 pr\2.4 partial\2.4 partial\obj\Debug\2.4 partial.pdb
